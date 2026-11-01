@@ -11,7 +11,6 @@
 
 ## 🚀 Live Project & Repository
 - **Course Project (Campus Connect):** [https://github.com/HARISHANKAR-A/Campus-Connect-FAQ-and-Navigation-Chatbot](https://github.com/HARISHANKAR-A/Campus-Connect-FAQ-and-Navigation-Chatbot)
-- **Modular Ledger Architecture:** Inspired by the digital page-turning / book navigation concept of [https://nlp-portfolio-one.vercel.app/](https://nlp-portfolio-one.vercel.app/), re-skinned into a distinct retro-cyberpunk aesthetic.
 
 ---
 
